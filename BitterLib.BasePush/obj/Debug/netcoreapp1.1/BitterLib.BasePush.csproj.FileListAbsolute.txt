@@ -1,0 +1,6 @@
+E:\training\core\BitterLib\BitterLib\BitterLib.BasePush\bin\Debug\netcoreapp1.1\BitterLib.BasePush.deps.json
+E:\training\core\BitterLib\BitterLib\BitterLib.BasePush\bin\Debug\netcoreapp1.1\BitterLib.BasePush.dll
+E:\training\core\BitterLib\BitterLib\BitterLib.BasePush\bin\Debug\netcoreapp1.1\BitterLib.BasePush.pdb
+E:\training\core\BitterLib\BitterLib\BitterLib.BasePush\obj\Debug\netcoreapp1.1\BitterLib.BasePush.AssemblyInfo.cs
+E:\training\core\BitterLib\BitterLib\BitterLib.BasePush\obj\Debug\netcoreapp1.1\BitterLib.BasePush.dll
+E:\training\core\BitterLib\BitterLib\BitterLib.BasePush\obj\Debug\netcoreapp1.1\BitterLib.BasePush.pdb

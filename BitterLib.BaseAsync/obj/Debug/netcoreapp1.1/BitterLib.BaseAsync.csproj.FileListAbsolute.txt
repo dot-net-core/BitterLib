@@ -1,0 +1,7 @@
+E:\training\core\BitterLib\BitterLib\BitterLib.BaseAsync\bin\Debug\netcoreapp1.1\BitterLib.BaseAsync.deps.json
+E:\training\core\BitterLib\BitterLib\BitterLib.BaseAsync\bin\Debug\netcoreapp1.1\BitterLib.BaseAsync.dll
+E:\training\core\BitterLib\BitterLib\BitterLib.BaseAsync\bin\Debug\netcoreapp1.1\BitterLib.BaseAsync.pdb
+E:\training\core\BitterLib\BitterLib\BitterLib.BaseAsync\obj\Debug\netcoreapp1.1\BitterLib.BaseAsync.csprojResolveAssemblyReference.cache
+E:\training\core\BitterLib\BitterLib\BitterLib.BaseAsync\obj\Debug\netcoreapp1.1\BitterLib.BaseAsync.AssemblyInfo.cs
+E:\training\core\BitterLib\BitterLib\BitterLib.BaseAsync\obj\Debug\netcoreapp1.1\BitterLib.BaseAsync.dll
+E:\training\core\BitterLib\BitterLib\BitterLib.BaseAsync\obj\Debug\netcoreapp1.1\BitterLib.BaseAsync.pdb

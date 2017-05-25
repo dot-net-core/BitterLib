@@ -1,0 +1,6 @@
+E:\training\core\BitterLib\BitterLib\BitterLib.WeiXinSDK\bin\Debug\netcoreapp1.1\BitterLib.WeiXinSDK.deps.json
+E:\training\core\BitterLib\BitterLib\BitterLib.WeiXinSDK\bin\Debug\netcoreapp1.1\BitterLib.WeiXinSDK.dll
+E:\training\core\BitterLib\BitterLib\BitterLib.WeiXinSDK\bin\Debug\netcoreapp1.1\BitterLib.WeiXinSDK.pdb
+E:\training\core\BitterLib\BitterLib\BitterLib.WeiXinSDK\obj\Debug\netcoreapp1.1\BitterLib.WeiXinSDK.AssemblyInfo.cs
+E:\training\core\BitterLib\BitterLib\BitterLib.WeiXinSDK\obj\Debug\netcoreapp1.1\BitterLib.WeiXinSDK.dll
+E:\training\core\BitterLib\BitterLib\BitterLib.WeiXinSDK\obj\Debug\netcoreapp1.1\BitterLib.WeiXinSDK.pdb

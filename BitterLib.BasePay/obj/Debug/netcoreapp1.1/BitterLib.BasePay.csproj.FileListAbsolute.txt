@@ -1,0 +1,6 @@
+E:\training\core\BitterLib\BitterLib\BitterLib.BasePay\bin\Debug\netcoreapp1.1\BitterLib.BasePay.deps.json
+E:\training\core\BitterLib\BitterLib\BitterLib.BasePay\bin\Debug\netcoreapp1.1\BitterLib.BasePay.dll
+E:\training\core\BitterLib\BitterLib\BitterLib.BasePay\bin\Debug\netcoreapp1.1\BitterLib.BasePay.pdb
+E:\training\core\BitterLib\BitterLib\BitterLib.BasePay\obj\Debug\netcoreapp1.1\BitterLib.BasePay.AssemblyInfo.cs
+E:\training\core\BitterLib\BitterLib\BitterLib.BasePay\obj\Debug\netcoreapp1.1\BitterLib.BasePay.dll
+E:\training\core\BitterLib\BitterLib\BitterLib.BasePay\obj\Debug\netcoreapp1.1\BitterLib.BasePay.pdb

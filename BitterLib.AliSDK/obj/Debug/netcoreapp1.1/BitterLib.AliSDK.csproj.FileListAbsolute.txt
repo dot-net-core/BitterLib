@@ -1,0 +1,6 @@
+E:\training\core\BitterLib\BitterLib\BitterLib.AliSDK\bin\Debug\netcoreapp1.1\BitterLib.AliSDK.deps.json
+E:\training\core\BitterLib\BitterLib\BitterLib.AliSDK\bin\Debug\netcoreapp1.1\BitterLib.AliSDK.dll
+E:\training\core\BitterLib\BitterLib\BitterLib.AliSDK\bin\Debug\netcoreapp1.1\BitterLib.AliSDK.pdb
+E:\training\core\BitterLib\BitterLib\BitterLib.AliSDK\obj\Debug\netcoreapp1.1\BitterLib.AliSDK.AssemblyInfo.cs
+E:\training\core\BitterLib\BitterLib\BitterLib.AliSDK\obj\Debug\netcoreapp1.1\BitterLib.AliSDK.dll
+E:\training\core\BitterLib\BitterLib\BitterLib.AliSDK\obj\Debug\netcoreapp1.1\BitterLib.AliSDK.pdb

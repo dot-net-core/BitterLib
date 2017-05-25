@@ -1,0 +1,6 @@
+E:\training\core\BitterLib\BitterLib\BitterLib.BaseSMS\bin\Debug\netcoreapp1.1\BitterLib.BaseSMS.deps.json
+E:\training\core\BitterLib\BitterLib\BitterLib.BaseSMS\bin\Debug\netcoreapp1.1\BitterLib.BaseSMS.dll
+E:\training\core\BitterLib\BitterLib\BitterLib.BaseSMS\bin\Debug\netcoreapp1.1\BitterLib.BaseSMS.pdb
+E:\training\core\BitterLib\BitterLib\BitterLib.BaseSMS\obj\Debug\netcoreapp1.1\BitterLib.BaseSMS.AssemblyInfo.cs
+E:\training\core\BitterLib\BitterLib\BitterLib.BaseSMS\obj\Debug\netcoreapp1.1\BitterLib.BaseSMS.dll
+E:\training\core\BitterLib\BitterLib\BitterLib.BaseSMS\obj\Debug\netcoreapp1.1\BitterLib.BaseSMS.pdb

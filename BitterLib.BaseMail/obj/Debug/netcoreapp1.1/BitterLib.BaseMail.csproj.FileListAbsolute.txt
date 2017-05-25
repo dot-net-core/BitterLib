@@ -1,0 +1,6 @@
+E:\training\core\BitterLib\BitterLib\BitterLib.BaseMail\bin\Debug\netcoreapp1.1\BitterLib.BaseMail.deps.json
+E:\training\core\BitterLib\BitterLib\BitterLib.BaseMail\bin\Debug\netcoreapp1.1\BitterLib.BaseMail.dll
+E:\training\core\BitterLib\BitterLib\BitterLib.BaseMail\bin\Debug\netcoreapp1.1\BitterLib.BaseMail.pdb
+E:\training\core\BitterLib\BitterLib\BitterLib.BaseMail\obj\Debug\netcoreapp1.1\BitterLib.BaseMail.AssemblyInfo.cs
+E:\training\core\BitterLib\BitterLib\BitterLib.BaseMail\obj\Debug\netcoreapp1.1\BitterLib.BaseMail.dll
+E:\training\core\BitterLib\BitterLib\BitterLib.BaseMail\obj\Debug\netcoreapp1.1\BitterLib.BaseMail.pdb
