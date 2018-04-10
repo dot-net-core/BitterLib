@@ -37,13 +37,14 @@ namespace BitterLib.BaseSMS
             {
                 HttpWebRequest myReq = (HttpWebRequest)HttpWebRequest.Create(strUrl);
                 myReq.Timeout = timeout;
+                /*
                 if (Huawei.LearningCloud.OperLib.SysConfig.ICT_Proxy_IsUsed)
                 {
                     WebProxy proxy = new WebProxy(); //代理对象
                     proxy.Address = new Uri(Huawei.LearningCloud.OperLib.SysConfig.ICT_Proxy_Address); //代理服务器地址:端口 
                     proxy.Credentials = new NetworkCredential(Huawei.LearningCloud.OperLib.SysConfig.ICT_Proxy_UserName, Huawei.LearningCloud.OperLib.SysConfig.ICT_Proxy_Password); //用戶名,密码 
                     myReq.Proxy = proxy;
-                }
+                }*/
                 HttpWebResponse HttpWResp = (HttpWebResponse)myReq.GetResponse();
                 Stream myStream = HttpWResp.GetResponseStream();
                 StreamReader sr = new StreamReader(myStream, Encoding.Default);
